@@ -104,6 +104,6 @@ cocoGt = COCO("../test.json")
 
 * Step3: Use model predictor to predict evey testimg images
 
-### **Reference**
+### **Reference —**
 https://github.com/facebookresearch/detectron2
 https://github.com/PeiChunChang/NCTU-VRusingDL/tree/master/HW4-instance-segmentation
