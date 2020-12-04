@@ -3,6 +3,7 @@
 *Student ID: 309553007*
 
 **Introduction —**
+
 Using Detectron2 to implement the instance segmentation, and the dataset is tiny VOC dataset which contains only 1,349 training images, 100 test images with 20 common object classes.
 
 **Hardware —**
