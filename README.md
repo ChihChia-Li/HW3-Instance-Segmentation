@@ -14,7 +14,7 @@ Using Detectron2 to implement the instance segmentation, and the dataset is tiny
 > 2. Train
 > 3. Inference
 
-1. Dataset Preparation
+#### 1. Dataset Preparation
 * Data structure:
 
 ```
@@ -31,7 +31,7 @@ DL_HW3/
    test.json
 ```
 
-2. Train
+#### 2. Train
 * Step 1: 
 Setup environment and detectron2
 ```
